@@ -1,16 +1,40 @@
-## Hi there 👋
+# 嗨，我是刘爱花 👋
 
-<!--
-**siwei-new/siwei-new** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI 产品经理｜RAG × Agent × AI 评测**
 
-Here are some ideas to get you started:
+我专注于把模型能力整理成可验证、可迭代的产品方案。工作覆盖需求定义、知识库与检索设计、智能体工作流、评测集构建和体验优化。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+“思为”是我的知识内容品牌，用于记录 AI 产品实践与方法整理。
+
+## 我能提供
+
+- **AI 产品方案**　场景判断、需求拆解、MVP 范围、PRD 与验收标准
+- **RAG 知识库**　资料治理、检索策略、引用溯源、拒答机制与效果评估
+- **智能体工作流**　任务拆解、工具编排、人工确认节点与异常处理
+- **AI 评测**　评测集设计、指标定义、失败样本分析和持续改进
+- **知识产品化**　把复杂内容整理为可复用的知识库、工作流与视觉卡片
+
+## 当前项目
+
+### [思为小红书知识卡片](https://github.com/siwei-new/siwei-xhs-knowledge-cards)
+
+面向 AI 产品知识内容的卡片生成工作流，覆盖选题判断、内容规划、逐页生成、视觉一致性检查和发布文案。
+
+### OfferLab
+
+面向 AI 产品经理求职与学习的个人工作台。它用目标岗位 JD 校准知识结构，并串联学习、项目证据、简历和面试训练。
+
+### 企业设计规范智能体
+
+面向设计师、运营和产品人员的规范查询方案。它使用 Agentic RAG 处理自然语言查询、来源引用、版本校验、跨产品比较和无依据拒答。
+
+## 工作原则
+
+- 事实、假设与建议分开记录
+- 用固定测试集和可追溯证据评估 AI 输出
+- 优先完成可运行、可验证的最小闭环
+- 不用技术复杂度替代用户价值
+
+## 联系方式
+
+- GitHub　[@siwei-new](https://github.com/siwei-new)
