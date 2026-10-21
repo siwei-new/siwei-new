@@ -1,4 +1,4 @@
-# 嗨，我是思为 (Siwei) 👋
+# 嗨，欢迎来到思为的新世界 👋
 
 [![Status](https://img.shields.io/badge/Status-Open_for_Opportunities-brightgreen?style=flat-square&logo=github)](https://github.com)
 [![Role](https://img.shields.io/badge/Role-AI_Product_Manager-1E60FF?style=flat-square)](https://github.com)
@@ -8,7 +8,7 @@
 
 
 热衷体验探索全球最前沿的模型生态与创新交互，更专注于将前沿能力沉淀为真正解决问题的产品。
-具备企业级 AI 从 0 到 1 落地经验，拒绝盲目套壳。专注于系统级提示词工程（Prompt Architecture）的边界约束、企业 RAG 知识体系的产品化闭环，以及在生产环境中平衡模型选型、Token 成本与响应时延的工程权衡。坚持用严格的**业务评测（Evals）**替代凭感觉调优，做连接先进模型与真实生产力之间的确定性桥梁。
+具备企业级 AI 从 0 到 1 落地经验。专注于企业 RAG 知识体系的产品化闭环、系统级提示词工程（Prompt Architecture）的边界约束，以及在生产环境中平衡模型选型、Token 成本与响应时延的工程权衡。坚持用严格的**业务评测（Evals）**替代凭感觉调优，做连接先进模型与真实生产力之间的确定性桥梁。
 
 ---
 
@@ -48,11 +48,11 @@
 ## 🤝 开放交流与合作 (Open for Collaboration)
 
 目前处于**开放状态**，欢迎以下维度的沟通与连接：
-- 💼 **工作机会**：企业 AI 产品经理、C 端/B 端 AI 应用从 0 到 1 孵化
+- 💼 **工作机会**：企业 AI 产品经理
 - 🤝 **项目协作**：Agent 技能开发、知识库系统产品化、个人/团队 AI 提效培训
 - 💬 **同行交流**：欢迎探讨大模型落地实践、提示词工程与内容创作
 
-📫 **联系我**：微信lah4167
+📫 **联系我**：微信lah4167|📮siwei4167@gmail.com
 
 ## 当前项目
 
