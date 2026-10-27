@@ -6,30 +6,24 @@
 
 **AI 产品经理 | 前沿技术探索者**
 
-
 热衷体验探索全球最前沿的模型生态与创新交互，更专注于将前沿能力沉淀为真正解决问题的产品。
 具备企业级 AI 从 0 到 1 落地经验。专注于企业 RAG 知识体系的产品化闭环、系统级提示词工程（Prompt Architecture）的边界约束，以及在生产环境中平衡模型选型、Token 成本与响应时延的工程权衡。坚持用严格的**业务评测（Evals）**替代凭感觉调优，做连接先进模型与真实生产力之间的确定性桥梁。
 
 ---
 
-## 🛠 核心聚焦与能力矩阵
 
-### 1. AI 产品的业务落地与从 0 到 1
+**🛠 核心聚焦与能力矩阵**
 
-### 2. 系统级提示词工程与安全边界 (Prompt Engineering & Guardrails)
+1. AI 产品的业务落地与从 0 到 1
 
-### 3. 智能体工作流与自动化 (Agent Workflows & Tool Calling)
+2. 系统级提示词工程与安全边界 (Prompt Engineering & Guardrails)
 
-### 4. 知识中台与高可信检索 (RAG 产品化)
+3. 智能体工作流与自动化 (Agent Workflows & Tool Calling)
 
-### 5. 模型选型、成本控制与数据飞轮 (Model Trade-offs & Data Flywheel)
+4. 知识中台与高可信检索 (RAG 产品化)
 
+5. 模型选型、成本控制与数据飞轮 (Model Trade-offs & Data Flywheel)
 
-## 当前项目
-
-### [思为小红书知识卡片](https://github.com/siwei-new/siwei-xhs-knowledge-cards)
-
-面向 AI 产品知识内容的卡片生成工作流，覆盖选题判断、内容规划、逐页生成、视觉一致性检查和发布文案。
 
 
 
